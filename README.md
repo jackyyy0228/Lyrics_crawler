@@ -3,7 +3,7 @@ Lyrics_crawler is a crawler on website lyrics.wikia.com. It can get all the lyri
 This module is based on PyLyrics 1.1.
 https://github.com/geekpradd/PyLyrics
 
-###Installation
+### Installation
 
 Install PyLrics first.
 
@@ -11,7 +11,7 @@ Install PyLrics first.
 pip install PyLyrics
 ```
 
-###Usage
+### Usage
 
 ```
 python crawler.py
